@@ -1,0 +1,12 @@
+.center_title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+body{
+  background-color: antiquewhite;
+}
+h1{
+  color: rgb(5, 61, 43);
+}
